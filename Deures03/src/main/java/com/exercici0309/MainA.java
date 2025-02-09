@@ -1,4 +1,4 @@
-package com.project;
+package com.exercici0309;
 
 import java.sql.Connection;
 import java.sql.Date;
